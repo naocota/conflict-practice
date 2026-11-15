@@ -1,2 +1,2 @@
-# conflict-practice
+# 課題演習
 課題１
